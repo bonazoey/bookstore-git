@@ -1,4 +1,4 @@
-package com.ezen.controller;
+package com.ezen.book;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;

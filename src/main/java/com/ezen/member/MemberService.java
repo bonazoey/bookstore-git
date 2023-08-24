@@ -1,4 +1,4 @@
-package com.ezen.book;
+package com.ezen.member;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
